@@ -1,0 +1,39 @@
+#1. Introdution 
+#2. express , mongoose and nodemon setup done (complete)
+
+#3. frontend setup using react js (complete)
+#4. routing in front end (complete)
+#5. header and footer component (complete)
+#6. Signup page layout (complete)
+#7. Install mongoDB (complete)
+#8. Node js connect with mongoDb (complete)
+#9. Signup API (complete)
+#10. CORS error (complete)
+#11. Integrated signup API in react (complete)
+#12. complete signup flow (complete) one issue: need to reload the page the only it is showing logout 
+#13. Logout (complete)
+#14. Login API in node js(complete)
+#15. Login Component UI(complete)
+#16. Login API integration(complete)
+#17. added name next to logout and added logo 
+#18. Product API(complete)
+#19. Add Product Component UI (complete)
+#20. Call Add Product API(complete)
+#21. React js Form validation(complete)
+#22. Product list API (complete)
+#23. Integrate Product List API(complete)
+#24. Delete Product API (complete)
+#25. Integrated Product API (complete)
+#26. Update Product Component UI (complete)
+#27. API to get single Product (complete)
+#28. Prefill update form(complete)
+#29. Update Product API(complete)
+#30. Update Product API Integrated in frontend(complete)
+#31. Search API for Product(complete)
+
+
+
+
+connect with MOngoDB
+
+mongoDB compass is a GUI tool. 
